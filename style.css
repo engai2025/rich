@@ -79,10 +79,12 @@ body {
   max-width: 960px;
   margin: 0 auto;
   padding: 20px 0;
+  margin-bottom: 70px;
+
 }
 
 /* Header Styles */
-header {
+.h1 {
   background-color: #4a90e2;
   color: white;
   padding: 60px 0;
